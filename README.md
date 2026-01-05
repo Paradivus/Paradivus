@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **databases**
 
-- 📫 How to reach me **Paradivus.dev@outlook.com**
+- 📫 How to reach me **paradivus.dev@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
