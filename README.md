@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm ParaDivus</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **GREFT**
+- 🔭 I’m currently working on <img src="https://statusparadivus.edgeone.app/project.svg" width="" />
 
-- 🌱 I’m currently learning **databases**
+- 🌱 I’m currently learning <img src="https://statusparadivus.edgeone.app/learning.svg" width="" />
+
+<h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **paradivus.dev@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- 💬 Message me on my [discord](https://discord.com/users/1261523694480654348)
 <p align="left">
 </p>
 
